@@ -14,7 +14,7 @@ This module adds a smarty function to redirect the user directly from a template
 Add it in your main thelia composer.json file
 
 ```
-composer require thelia/smarty-redirection-module:~1.0
+composer require thelia/smarty-redirection-module ~1.0.0
 ```
 
 ## Usage
